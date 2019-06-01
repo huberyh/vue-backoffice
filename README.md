@@ -6,7 +6,7 @@
 **[OnlineDemo](http://admin.eamonn.cn/admin)**
 
 ## 效果
-![](http://ww1.sinaimg.cn/large/71d81503ly1fczkd9h6ioj21kw0rudii)
+# Vue elementui express mongodb
 
 ## 用法
 ### 安装依赖
