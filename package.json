@@ -33,7 +33,7 @@
         "mysql": "^2.12.0",
         "nprogress": "^0.2.0",
         "reload": "^1.1.0",
-        "sequelize": "^3.29.0",
+        "sequelize": "^6.3.5",
         "serve-favicon": "~2.3.0",
         "vue": "^2.1.0",
         "vue-router": "^2.1.1",
